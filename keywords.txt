@@ -1,0 +1,8 @@
+aht20	KEYWORD1
+setup	KEYWORD2
+detect	KEYWORD2
+measurement_async_trigger	KEYWORD2
+measurement_async_get	KEYWORD2
+measurement_sync_get	KEYWORD2
+data_read	KEYWORD2
+data_write	KEYWORD2

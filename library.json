@@ -1,0 +1,15 @@
+{
+    "name": "Sitron_Labs_Asair_AHT20_Arduino_Library",
+    "version": "0.1.0",
+    "description": "Arduino library for the ASAIR AHT20 digital temperature and humidity sensor. The ASAIR AHT20 is a digital temperature and humidity sensor, in a small 3x3x1mm package, which outputs calibrated data over i2c.",
+    "keywords": "sitron labs,sitron,labs,arduino,library,sensor,digital,i2c,temperature,humidity,calibrated,aosong,asair,aht20",
+    "repository": {
+        "type": "git",
+        "url": "https:\/\/github.com\/sitronlabs\/SitronLabs_Asair_AHT20_Arduino_Library.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*",
+    "build": {
+        "includeDir": "src"
+    }
+}
